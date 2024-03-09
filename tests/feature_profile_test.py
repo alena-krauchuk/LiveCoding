@@ -22,3 +22,6 @@ class TestProfileFeature(BaseTest):
         self.personal_page.save_changes()
         self.personal_page.are_changes_saved()
         self.personal_page.make_screenshot("Success")
+
+
+
