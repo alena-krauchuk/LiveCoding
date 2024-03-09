@@ -1,6 +1,7 @@
-#.pytest_cache
+.pytest_cache
 .idea
 *.iml
 .env
+venv
 report
 allure-results
